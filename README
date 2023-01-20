@@ -1,0 +1,9 @@
+1. Zainstalować mySQL Workbench https://dev.mysql.com/downloads/windows/installer/8.0.html
+  - trzeba zainstalowac Workbench oraz server
+2. Odpalić server (powinien się odpalić zaraz po włączeniu Workbench)
+3. odpalanie clienta - cd /client
+  - npm install
+  - npm build
+4. odpalanie backendu - cd /server
+  - npm install
+  - node index.js
